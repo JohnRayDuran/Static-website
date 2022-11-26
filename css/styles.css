@@ -1,13 +1,25 @@
 body{
-    background-color: aqua;
+    background-color: salmon;
     text-align:center;
 }
 
 h1
 h2 {
+    color:black
+    font-family:firebrick;
+    
 
+}
+
+p{
+    color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 
 }
 
+#my-avatar {
+    width: 150px;
+    border-radius: 50%;
+}
 
